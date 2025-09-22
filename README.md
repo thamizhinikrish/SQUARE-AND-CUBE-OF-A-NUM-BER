@@ -62,7 +62,6 @@ INC DPTR
 MOV A,B
 END
 
-
 ## OUTPUT
 <img width="548" height="342" alt="image" src="https://github.com/user-attachments/assets/f573e387-04cf-4ac2-b450-a9eca70fd7d8" />
 <img width="543" height="326" alt="image" src="https://github.com/user-attachments/assets/c3ae7fa6-eda4-417c-b2e5-db8b4aa46580" />
