@@ -29,6 +29,7 @@ END
 ## OUTPUT
 <img width="611" height="382" alt="image" src="https://github.com/user-attachments/assets/11b780ac-0885-4d22-bb15-61101ed933a5" />
 <img width="628" height="306" alt="image" src="https://github.com/user-attachments/assets/a49918d7-c289-48d3-84b6-04b519ded533" />
+
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
 
@@ -61,7 +62,6 @@ MOVX @DPTR,A
 INC DPTR
 MOV A,B
 END
-
 ## OUTPUT
 <img width="548" height="342" alt="image" src="https://github.com/user-attachments/assets/f573e387-04cf-4ac2-b450-a9eca70fd7d8" />
 <img width="543" height="326" alt="image" src="https://github.com/user-attachments/assets/c3ae7fa6-eda4-417c-b2e5-db8b4aa46580" />
