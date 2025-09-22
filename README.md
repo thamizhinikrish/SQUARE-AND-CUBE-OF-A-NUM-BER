@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="Screenshot 2025-09-22 143947" src="https://github.com/user-attachments/assets/4a7e81e0-ba59-41f6-b105-3c82f703a551" /># SQUARE AND CUBE OF A NUMBER
+# SQUARE AND CUBE OF A NUMBER
 # 8051 Square  Program
 
 ## AIM
@@ -59,7 +59,7 @@ MUL AB
 INC DPTR
 MOVX @DPTR,A
 INC DPTR
-MOV A,B
+MOV A,B
 END
 
 
