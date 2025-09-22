@@ -17,15 +17,16 @@ To write and execute an Assembly language program for finding the square of a gi
 ## PROGRAM
 ORG 0000H
 MOV DPTR,#4500H
-MOVX A,@DPTR 
+MOVX A,@DPTR
 MOV B,A
 MUL AB
 INC DPTR
 MOVX @DPTR,A
 INC DPTR
 MOV A,B
-MOVX @DPTR,A
+MOVX @DPTR,A
 END
+
 ## OUTPUT
 <img width="611" height="382" alt="image" src="https://github.com/user-attachments/assets/11b780ac-0885-4d22-bb15-61101ed933a5" />
 <img width="628" height="306" alt="image" src="https://github.com/user-attachments/assets/a49918d7-c289-48d3-84b6-04b519ded533" />
